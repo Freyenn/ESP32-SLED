@@ -1,0 +1,23 @@
+Identificador,Empaquetado,Cantidad,Identificación
+D4 D2 D6 D8 D10 D7 D5 D1 D9,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,9,Rojo
+R2 R10 R7 R17 R5 R22 R21 R6 R18 R19 R8 R20 R16,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,13,1K
+R15 R13 R12 R11 R14 R9,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6,10K
+R1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,4.7K
+C1 C3,C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,2,10uF
+C5,C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,1,100uF/6.3V
+C4,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,10uF
+C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,0.1uF
+Q2 Q1,SOT-23,2,S8050
+D3,D_SMA,1,SS14 / Schottky
+J11 JP1,PinHeader_1x02_P2.54mm_Vertical,1,Corriente
+J10,PinSocket_1x03_P2.54mm_Vertical,1,Trimpod
+J4 J6  J5 J3 J8,PinSocket_1x04_P2.54mm_Vertical,3,Conector 4 pines
+J2,PinSocket_1x06_P2.54mm_Vertical,1,SD_Module
+J9,PinSocket_1x08_P2.54mm_Vertical,1,Conn_01x08_Female
+J7,PinSocket_1x16_P2.54mm_Vertical,1,GPIOS
+J1,USB_Mini-B_Lumberg_2486_01_Horizontal,1,USB_B_Micro
+RST1 RST2,SW_SPST_B3U-1000P,2,Reset y Flash
+RST3 RST4,SW_SPST_CK_RS282G05A3,1,SW1
+U2,SOT-223-3_TabPin2,1,AMS1117-3.3
+U4,ESP32-WROOM-32,1,ESP32-WROOM-32
+U1,QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm,1,CP2102N-Axx-xQFN28
